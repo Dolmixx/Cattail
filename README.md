@@ -17,6 +17,8 @@ Cattail uses a servo sensor in its tail to move around, acting as a turret. If y
 
 # Set up
 
+Assembly Instrcutions can be found [here](https://github.com/Dolmixx/Cattail/blob/0ff5b3b0742512a64269352948cb11de538cbcb1/Assembly%20Instructions%20.md)
+
 Cattail is easy to set up! 
 
 Load up some toothpicks (or something of 6.5cm length and 2mm diameter) into the feeder and watch as the cattail starts firing when it detects an object within its sight. 
