@@ -1,0 +1,13 @@
+Item,Quantity,Price (CAD),Source,Note
+DC Motor,1,1.41,Aliexpress,*Does not come with pre soldered wires*
+Servo Motor,1,1.41,Aliexpress,
+Sonar Sensor,1,1.06,Aliexpress,
+Breadboard,1,3.46,Aliexpress,
+Male to Male Wires,17,4.68,Aliexpress,
+Female to Male Wires,4,4.68,Aliexpress,
+Battery Pack x4,,2.31,Aliexpress,
+AA Battery,4,8.79,Aliexpress,
+Arduino UNO,1,3.84,Aliexpress,
+3D printer ,1,239,Elegoo,Majority of parts are printed
+Total,--,270.64,--,
+Total w/out printer,--,31.64,--,May be more worth while to buy a kit rather than individual parts
