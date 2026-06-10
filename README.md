@@ -28,6 +28,8 @@ Electronic Models used:
 
 [Servo Motor](https://www.printables.com/model/360145-micro-servo-3d-model-stp) By: Ludvig Broomé
 
+[Arduino UNO](https://www.printables.com/model/358867-arduino-uno-3d-model-stp/files) By: Ludvig Broomé
+
 [DC Motor](https://www.printables.com/model/1083059-generic-3-6v-dc-motor-model) By: Henry Levesque
 
 [Sonar Sensor](https://www.printables.com/model/1443060-hc-sr04-ultrasonic-sensor-module/files) By: Tom Knox
