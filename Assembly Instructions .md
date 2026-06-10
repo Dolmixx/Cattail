@@ -4,9 +4,11 @@ Video Tutorial Soon after building begins.
 1. The base 
 
 The cattail has a “base” which is its face as pictured below:
+
 <img width="508" height="366" alt="Screenshot 2026-06-09 at 8 37 11 PM" src="https://github.com/user-attachments/assets/cb674e00-3354-492d-ac3d-29d0f19bb1d4" />
 
 There should be 4 printed out leaves that can be easily inserted at an angle into the slots on the bottom. 
+
 <img width="672" height="432" alt="Screenshot 2026-06-09 at 8 38 58 PM" src="https://github.com/user-attachments/assets/88502cc0-9c7f-400b-a443-6ac1a568dd8d" />
 
 They have a section at the end that “hooks” onto an internal flap so that the leaves cannot be pulled out easily. Each leaf can be put into whichever leaf holder, make sure that the leaves are facing the right direction. To check this, make sure the leaf is curved downwards instead of upwards. To remove the leaves, perform the same action but in reverse. 
@@ -16,9 +18,11 @@ The leaves have no functional purpose other than aesthetics and can be disregard
 2. The head
 
 The head of the cattail follows a similar design. There is a hat and two ears. The hat should sit on top of the face, making sure to align the slope properly. There is a 5 degree angle on the inside where both pieces land, this should make it so the rim of the front of the hat sits above the Cattails eyebrows. 
+
 <img width="482" height="432" alt="Screenshot 2026-06-09 at 8 40 16 PM" src="https://github.com/user-attachments/assets/b1004e6b-f816-4148-9198-31e27bb68958" />
 
 The ears are similar to the leaves where you can simply place them into the dedicated slots on top. These serve no functionality other than appearance and can be discarded if your intention is solely to have a working turret. 
+
 <img width="419" height="412" alt="Screenshot 2026-06-09 at 8 41 10 PM" src="https://github.com/user-attachments/assets/89ad462e-2862-4973-8477-c8e1ac370270" />
 
 3. The tail (Not to be confused with the main cattail portion)
@@ -71,19 +75,23 @@ Start by placing a DC motor in the base. There is a hole that should fit it, and
 <img width="364" height="256" alt="Screenshot 2026-06-09 at 8 46 03 PM" src="https://github.com/user-attachments/assets/124e5aaa-2688-4eea-85c4-b5d9adee85ca" />
 
 Next attach the joint (the L piece) to the motor by looking at the side that has a hole in it and putting it through. Make sure it is securely attached by pushing it all the way through. 
+
 <img width="950" height="614" alt="image" src="https://github.com/user-attachments/assets/86bc315f-f2b2-4cb3-b648-a0df9c624492" />
 
 Place the T shape part on top of the base. There should be a 2mm section that the T shape can slide into. The arm of the T shape should be facing the right side, being able to be touched by the joint. 
+
 <img width="395" height="275" alt="Screenshot 2026-06-09 at 8 47 56 PM" src="https://github.com/user-attachments/assets/2c87d8e4-1847-4ffb-af7b-e02ae9871977" />
 
 You will see an identical looking T shape on the front of the base, attached to a small rubber band that connects the T shapes of both. The idea is that the joint will push the T part away and the rubber band will snap it back forward. 
 
 Take the corndog (cylinder piece) and you will notice theres a hole on one end, and on the other end there will be something that looks like two eyes. On the side with the two eyes, attach the sonar sensor. 
+
 <img width="535" height="486" alt="Screenshot 2026-06-09 at 8 48 30 PM" src="https://github.com/user-attachments/assets/9e66d8c7-26b6-4510-8883-6bd00b144791" />
 
 The sensor should be placed in a position in which it sticks out in front. There are 4 screw holes to fasten it in. 
 
 Next you will notice on the “floor” of the hotdog on the same side as the sensor there is a rail way like structure. Pointing the base (with all completed steps previously) in where the tiny 2mm hole is facing outwards, you can “snap” it into place by lining it up to the track. 
+
 <img width="629" height="381" alt="Screenshot 2026-06-09 at 8 48 57 PM" src="https://github.com/user-attachments/assets/180b8ea0-0fa3-4187-ac71-a91e35df66cc" />
 
 Congratulations you now have your very own Cattail! 
