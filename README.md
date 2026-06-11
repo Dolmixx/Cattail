@@ -19,7 +19,7 @@ Cattail uses a servo sensor in its tail to move around, acting as a turret. If y
 
 # Set up
 
-Assembly Instructions can be found [here](https://github.com/Dolmixx/Cattail/blob/41bc66453910391424adb353550944b3d9448104/Assembly%20Instructions%20.md)
+Assembly Instructions can be found [here](https://github.com/Dolmixx/Cattail/blob/f765cce6e45819e482d21d5897195e48d3cd8e34/Production/Assembly%20Instructions.md)
 
 Cattail is easy to set up! 
 
