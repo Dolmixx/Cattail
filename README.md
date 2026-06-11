@@ -5,9 +5,9 @@ Have you ever wanted your very own Cattail? Well now you can! From the nostalgic
 
 <img width="1920" height="1080" alt="cat assembelyyyy" src="https://github.com/user-attachments/assets/fb90fc94-0f19-4233-9e22-740a48a270d5" />
 
-[Wiring Diagram](https://github.com/Dolmixx/Cattail/blob/31b610055ec4747bf0e9fe8644c6161e45f276da/Production/Schematic%20%2B%20Diagram/Wiring%20Diagram.pdf)
-[Schematic](https://github.com/Dolmixx/Cattail/blob/31b610055ec4747bf0e9fe8644c6161e45f276da/Production/Schematic%20%2B%20Diagram/Cattail%20Schematic.pdf)
+<img width="535" height="630" alt="Screenshot 2026-06-10 at 9 40 13 PM" src="https://github.com/user-attachments/assets/7663b294-c37b-427f-929c-1497b9ba13c0" />
 
+<img width="794" height="616" alt="Screenshot 2026-06-10 at 9 40 30 PM" src="https://github.com/user-attachments/assets/f9e7c20e-c46b-460a-aac2-92cb2f5aa9e3" />
 
 # Why was this made?
 
