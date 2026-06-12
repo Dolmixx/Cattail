@@ -1,5 +1,6 @@
 # Cattail 
-<img width="389" height="596" alt="Screenshot 2026-06-12 at 3 13 22 PM" src="https://github.com/user-attachments/assets/51836620-e8c1-4afd-ad16-9486391a5cc3" />
+<img width="390" height="597" alt="Screenshot 2026-06-12 at 3 20 34 PM" src="https://github.com/user-attachments/assets/86f641eb-6da8-4ef1-ba9e-6921545849b8" />
+
 
 Have you ever wanted your very own Cattail? Well now you can! From the nostalgic game Plants Versus Zombies, Cattail is your adorable 3D printed companion equipped with an arduino, sonar sensor, DC motor, and a servo motor to protect your back from whatever danger you might find yourself in. 
 
