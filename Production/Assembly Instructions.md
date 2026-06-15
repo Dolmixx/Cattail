@@ -105,12 +105,13 @@ Congratulations you now have your very own Cattail!
 
 # Electronic Assembly Instructions 
 *images will be added when building begins*
+The Arduino sits in the "face" of the cattail alongside the breadboard. Download and run the Cattail code onto the arduino.
 1. Servo motor
 
-Wire as shown in the [wiring diagram](https://github.com/Dolmixx/Cattail/blob/71b2e4feb15a2f312b79d93c6bd7dd4ea0bebad7/Wiring%20Diagram.pdf). The tail is hollow, feed the wires through the tail, use additional jumper wires if necessary. 
+Wire as shown in the [wiring diagram](https://github.com/Dolmixx/Cattail/blob/71b2e4feb15a2f312b79d93c6bd7dd4ea0bebad7/Wiring%20Diagram.pdf). The tail is hollow, feed the wires through the tail, use additional jumper wires if necessary. The servo motor can be screwed in.
 
 2. DC Motor + Sonar Sensor
 
-Both should be connected as shown in the wiring diagram. Ensure that the dc motor has its own power supply. 
+Both should be connected as shown in the wiring diagram. Ensure that the dc motor has its own power supply. The sensor can be screwed in, the DC motor fits in the slot in the corndog.
 
 Feed through the wires through the tail on either side of the gap, make sure the servo rotation does not interfere with the connection. 
