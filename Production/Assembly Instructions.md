@@ -1,5 +1,4 @@
 # Assembly Instructions 
-Video Tutorial Soon after building begins.
 
 1. The base 
 
