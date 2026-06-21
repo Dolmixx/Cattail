@@ -104,7 +104,10 @@ Congratulations you now have your very own Cattail!
 
 # Electronic Assembly Instructions 
 *images will be added when building begins*
-The Arduino sits in the "face" of the cattail alongside the breadboard. Download and run the Cattail code onto the arduino.
+The Arduino sits in the "face" of the cattail alongside the battery pack and batteries. Download and run the Cattail code onto the arduino to begin.
+
+<img width="731" height="421" alt="Screenshot 2026-06-20 at 8 09 48 PM" src="https://github.com/user-attachments/assets/e5c1ccd9-f3c6-4cde-b5c7-12ac805a191a" />
+
 1. Servo motor
 
 Wire as shown in the [wiring diagram](https://github.com/Dolmixx/Cattail/blob/71b2e4feb15a2f312b79d93c6bd7dd4ea0bebad7/Wiring%20Diagram.pdf). The tail is hollow, feed the wires through the tail, use additional jumper wires if necessary. The servo motor can be screwed in.
